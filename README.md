@@ -1,6 +1,7 @@
 # Mini Lab — C2 Workflow (Sanitized)  
 > **DO NOT PUBLISH REAL PAYLOADS OR C2 CODE.**  
-> This repo is a **sanitized demo** only. The files `c2_server.py` and `payload.py` must be configured to use localhost only and must not execute arbitrary shell commands. Only publish after following the "Sanitization checklist" below.
+>  **Important:** This repository contains a **sanitized, harmless demo** only. It does **not** include real payloads, reverse shells, or any code that enables remote compromise. This is for educational purposes only and was tested in an isolated lab environment.
+The files `c2_server.py` and `payload.py` must be configured to use localhost only and must not execute arbitrary shell commands. Only publish after following the "Sanitization checklist" below.
 
 ---
 
