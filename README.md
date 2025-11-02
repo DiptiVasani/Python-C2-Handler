@@ -1,6 +1,6 @@
 # Mini Lab — C2 Workflow (Sanitized)
 
-> **Important:** This repository contains a **sanitized, harmless demo** only. It does **not** include real payloads, reverse shells, or any code that enables remote compromise. This is for educational and portfolio purposes only and was tested in an isolated lab environment.
+> **Important:** This repository contains a **sanitized, harmless demo** only. It does **not** include real payloads, reverse shells, or any code that enables remote compromise. This is for educational purposes only and was tested in an isolated lab environment.
 
 ## Files
 - `c2_server.py` — safe localhost-only demo server (replacement of original).
